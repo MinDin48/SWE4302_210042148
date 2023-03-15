@@ -1,0 +1,12 @@
+F:\Project\Practice_Project_1\bin\Debug\Practice_Project_1.exe.config
+F:\Project\Practice_Project_1\bin\Debug\Practice_Project_1.exe
+F:\Project\Practice_Project_1\bin\Debug\Practice_Project_1.pdb
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.csproj.AssemblyReference.cache
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.csproj.SuggestedBindingRedirects.cache
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.Form1.resources
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.Properties.MainForm.resources
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.Properties.Resources.resources
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.csproj.GenerateResource.cache
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.csproj.CoreCompileInputs.cache
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.exe
+F:\Project\Practice_Project_1\obj\Debug\Practice_Project_1.pdb
