@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Practice_Project_1.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,17 @@ namespace Practice_Project_1
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //fgadshjfdiuyfgtydhjsgiudsfgh
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MainForm abc = new MainForm();
+            abc.ShowDialog();
         }
     }
 }
